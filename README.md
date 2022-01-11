@@ -1,3 +1,4 @@
+<h2>Description:</h2>
 My first Web3 app on Solana - built with React and Rust. Thank you buildspace!
 
 Deployed on devnet:
@@ -15,7 +16,8 @@ We're going to kick things off w/ one of the most magical things about web3, con
 
 We're going to build a Solana program that lets users 1) submit gifs to the board 2) have them saved on the Solana blockchain 3) retrieve all the GIFs that have been submitted.
 
-Connect Wallet:
+<h2>Demo:</h2>
+<p>Connect Wallet:</p>
 <img src="./connect_wallet.png"/>
-Post GIF - only if connected:
+<p>Post GIF - only if connected:</p>
 <img src="./submit_gif.png"/>
