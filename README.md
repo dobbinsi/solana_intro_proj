@@ -1,5 +1,4 @@
-My first Web3 app on Solana - built with React and Rust
-Thank you buildspace!
+My first Web3 app on Solana - built with React and Rust. Thank you buildspace!
 
 A few notes from the buildspace lesson:
 
