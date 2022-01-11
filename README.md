@@ -1,5 +1,8 @@
 My first Web3 app on Solana - built with React and Rust. Thank you buildspace!
 
+Deployed on devnet:
+https://explorer.solana.com/address/DacbdoRTd85dRZwfWJopbhRm7G8AWCqe9Sm53xPQauCi?cluster=devnet 
+
 A few notes from the buildspace lesson:
 
 Programs - 
@@ -11,3 +14,8 @@ On Solana, programs are "stateless". This is very different from Ethereum. On Et
 We're going to kick things off w/ one of the most magical things about web3, connecting to a product with your wallet. We'll allow our user to essentially "auth" with their Solana wallet. Building auth is usually pretty hard. You need to have a database of usernames, password, etc. Remember, it's just like authenticating into a website. If you aren't "logged in" to G-Mail, then you can't use their email product!
 
 We're going to build a Solana program that lets users 1) submit gifs to the board 2) have them saved on the Solana blockchain 3) retrieve all the GIFs that have been submitted.
+
+Connect Wallet:
+<img src="./connect_wallet.png"/>
+Post GIF - only if connected:
+<img src="./submit_gif.png"/>
